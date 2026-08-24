@@ -1,0 +1,33 @@
+{
+  "creators": [
+    {
+      "name": "Al-Sawaff, Zaid H.",
+      "orcid": "0000-0001-8789-4905",
+      "affiliation": "Department of Medical Instrumentation Technology, Technical Engineering College, Northern Technical University, Mosul, Iraq"
+    }
+  ],
+  "title": "DELTA PCBM: Leakage-Controlled Active Learning for Longitudinal HD-sEMG",
+  "description": "Reference implementation, audit artifacts, and preserved analysis provenance for predicted-class-balanced active learning under a leakage-controlled longitudinal HD-sEMG adaptation protocol using the DELTA dataset.",
+  "version": "1.0.0",
+  "access_right": "open",
+  "license": "mit",
+  "upload_type": "software",
+  "language": "eng",
+  "keywords": [
+    "high-density surface electromyography",
+    "active learning",
+    "longitudinal adaptation",
+    "leakage control",
+    "prosthesis control",
+    "uncertainty sampling",
+    "temporal convolutional network"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://doi.org/10.5281/zenodo.10801000",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset"
+    }
+  ]
+}
+
