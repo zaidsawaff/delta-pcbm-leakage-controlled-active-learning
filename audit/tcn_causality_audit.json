@@ -1,0 +1,17 @@
+{
+  "audit_scope": "locked TCN layer contract reported in manuscript Table 2",
+  "sequence_length_windows": 37,
+  "kernel_size": 3,
+  "dilations": [1, 2, 4, 8],
+  "padding_values": [1, 2, 4, 8],
+  "pytorch_integer_padding_semantics": "symmetric left/right zero padding",
+  "left_only_F_pad_documented": false,
+  "chomp_or_cropping_documented": false,
+  "output_shift_documented": false,
+  "classification": "DILATED_NONCAUSAL_WITHIN_COMPLETE_REPETITION",
+  "retraining_required": false,
+  "fixed_test_inference_repeated": false,
+  "primary_ridge_result_affected": false,
+  "expected_trainable_parameters": 118536
+}
+
