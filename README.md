@@ -1,5 +1,7 @@
 # Leakage-Controlled Active Learning for Longitudinal HD-sEMG
 
+[![DOI](https://zenodo.org/badge/1345197390.svg)](https://doi.org/10.5281/zenodo.22085422)
+
 This repository accompanies the study **“Predicted-Class-Balanced Active Learning for Leakage-Controlled Longitudinal Adaptation of High-Density Surface Electromyography: Classical and Deep-Learning Evidence from the DELTA Dataset.”**
 
 The study evaluates Predicted-Class-Balanced Margin (PCBM), a deterministic low-budget acquisition heuristic for longitudinal adaptation of high-density surface electromyography (HD-sEMG) classifiers. The protocol isolates every fixed test from model fitting, normalization, calibration, and query selection.
@@ -85,8 +87,10 @@ Study-generated software in this repository is released under the MIT License. T
 
 ## Citation
 
-A version-specific DOI will be minted through Zenodo for the GitHub release `v1.0.0`. Until the DOI is issued, cite the software metadata in `CITATION.cff`:
+For the archived `v1.0.0` release, cite:
 
-> Al-Sawaff, Z. H. (2026). *DELTA PCBM: Leakage-Controlled Active Learning for Longitudinal HD-sEMG* (Version 1.0.0) [Computer software].
+> Al-Sawaff, Z. H. (2026). *DELTA PCBM: Leakage-Controlled Active Learning for Longitudinal HD-sEMG* (Version 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.22085423
 
-Author ORCID: [0000-0001-8789-4905](https://orcid.org/0000-0001-8789-4905).
+* Version-specific DOI: [10.5281/zenodo.22085423](https://doi.org/10.5281/zenodo.22085423)
+* DOI for all versions: [10.5281/zenodo.22085422](https://doi.org/10.5281/zenodo.22085422)
+* Author ORCID: [0000-0001-8789-4905](https://orcid.org/0000-0001-8789-4905)
